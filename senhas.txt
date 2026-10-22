@@ -1,0 +1,7 @@
+msfadmin
+admin
+password
+123456
+toor
+ftp
+test
